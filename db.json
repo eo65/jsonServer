@@ -17,6 +17,18 @@
       "title":"eat breakfast",
 	  "type":"task", 
 	  "column":"todo"
+    },
+    {
+      "id": 4,
+      "title":"say hi to joe",
+	  "type":"feature", 
+	  "column":"review"
+    },
+   {
+      "id": 5,
+      "title":"plan a food",
+	  "type":"fature", 
+	  "column":"review"
     }
   ]
 }
